@@ -1,0 +1,3 @@
+gunicorn==19.4.5
+requests
+pysaml2==4.4.0
