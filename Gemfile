@@ -1,4 +1,8 @@
 source 'https://rubygems.org'
 
-ruby '1.9.3'
-mysql '2.5.1'
+gem 'nokogiri'
+gem 'rails', '3.0.0.beta3'
+gem 'rack',  '>=1.0'
+gem 'thin',  '~>1.1'
+gem 'mysql', '2.5.1'
+gem 'actionview', '3.2.1'
